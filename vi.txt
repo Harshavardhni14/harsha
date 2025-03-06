@@ -1,0 +1,17 @@
+<table>
+<tr>
+<th>company</th>
+<th>contact</th>
+<th>country</th>
+</tr>
+<tr>
+<td>AIfreds Futterkiste</td>
+<td>Maria Anders</td>
+<td>Germany</td>
+</tr>
+<tr>
+<td>centro commrcial Moctezunma</td>
+<td>Francisco chang</td>
+<td>Mexico</td>
+</tr>
+</table>
