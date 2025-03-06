@@ -1,4 +1,4 @@
-From: <Saved by Blink>
+
 Snapshot-Content-Location: https://web.whatsapp.com/
 Subject: (2) WhatsApp
 Date: Fri, 14 Feb 2025 10:22:39 +0530
@@ -14,61 +14,8 @@ Content-ID: <frame-036E3AEC309F1AB09B709A08BE6FF463@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://web.whatsapp.com/
 
-<!DOCTYPE html><html id=3D"whatsapp-web" class=3D"serviceworker adownload c=
-ssanimations csstransitions webp webp-alpha webp-animation webp-lossless wf=
--loading" lang=3D"en" dir=3D"ltr" style=3D"--splashscreen-startup-backgroun=
-d: #F7F5F3; --splashscreen-startup-background-rgb: 247, 245, 243; --splashs=
-creen-startup-icon: rgba(0, 0, 0, 0.1); --splashscreen-primary-title: #0A10=
-14; --splashscreen-secondary-lighter: #5B6368; --splashscreen-progress-prim=
-ary: #1DAA61; --splashscreen-progress-background: rgba(0, 0, 0, 0.1);"><hea=
-d><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">=
-<link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-dfc5f9e9-210d-46=
-46-bcaf-1060f0bb8a74@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/c=
-ss" href=3D"cid:css-4246dccb-fb03-456b-b290-86acc5e254a7@mhtml.blink" /><li=
-nk rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-43515688-589c-4c25-=
-a5b3-e86f724fc24a@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css"=
- href=3D"cid:css-d6dfbccb-fc92-4c74-8793-462f75950a5e@mhtml.blink" /><link =
-data-default-icon=3D"https://static.whatsapp.net/rsrc.php/v4/yP/r/rYZqPCBaG=
-70.png" rel=3D"shortcut icon" href=3D"https://static.whatsapp.net/rsrc.php/=
-v4/yP/r/rYZqPCBaG70.png"><meta name=3D"bingbot" content=3D"noarchive"><meta=
- name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1,maximu=
-m-scale=3D2,shrink-to-fit=3Dno"><link rel=3D"manifest" href=3D"https://web.=
-whatsapp.com/data/manifest.json" crossorigin=3D"use-credentials"><meta name=
-=3D"google" content=3D"notranslate"><meta name=3D"format-detection" content=
-=3D"telephone=3Dno"><meta name=3D"description" content=3D"Quickly send and =
-receive WhatsApp messages directly from your computer."><meta name=3D"og:de=
-scription" content=3D"Quickly send and receive WhatsApp messages directly f=
-rom your computer."><meta name=3D"og:url" content=3D"https://web.whatsapp.c=
-om/"><meta name=3D"og:title" content=3D"WhatsApp Web"><meta name=3D"og:imag=
-e" content=3D"https://static.whatsapp.net/rsrc.php/v4/yR/r/y8-PTBaP90a.png"=
-><meta name=3D"theme-color" content=3D"#f0f2f5" media=3D"(prefers-color-sch=
-eme: dark)"><meta name=3D"theme-color" content=3D"#f0f2f5"><link rel=3D"app=
-le-touch-icon" sizes=3D"192x192" href=3D"https://static.whatsapp.net/rsrc.p=
-hp/v4/yc/r/hUUuVTz6ZVi.png">
 
-
-<link type=3D"text/css" rel=3D"stylesheet" href=3D"https://static.whatsapp.=
-net/rsrc.php/v5/yU/l/0,cross/1qi5AmIb9GwLr9AMnrbgssgmiY66M-frPhlMy282hieO.c=
-ss" data-bootloader-hash=3D"8265N+h" crossorigin=3D"anonymous" data-p=3D":2=
-8,11,6,16" data-btmanifest=3D"1020109231_main" data-c=3D"1">
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4/yk/r/=
-u94HXqmiqnA.js" as=3D"script" crossorigin=3D"anonymous" nonce=3D"">
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4/yF/r/=
-p55HfXW__mM.js" as=3D"script" crossorigin=3D"anonymous" nonce=3D"">
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4i-Cg4/=
-yr/l/rt/Omx5Uo5pNOO.js" as=3D"script" crossorigin=3D"anonymous" nonce=3D"">=
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc-translations=
-.php/v8i-Cg4/y9/l/en_GB/Omx5Uo5pNOO.js" as=3D"fetch" crossorigin=3D"anonymo=
-us">
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4/y2/r/=
-jg0SVs0ZRld.js" as=3D"script" crossorigin=3D"anonymous" nonce=3D"">
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4iz9o4/=
-ym/l/rt/c9tGd_s0vIy.js" as=3D"script" crossorigin=3D"anonymous" nonce=3D"">=
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc-translations=
-.php/v8iz9o4/yd/l/en_GB/c9tGd_s0vIy.js" as=3D"fetch" crossorigin=3D"anonymo=
-us">
-<link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4/yM/r/=
-KiMtZFXCu09.js" as=3D"script" crossorigin=3D"anonymous" nonce=3D"">
+t" crossorigin=3D"anonymous" nonce=3D"">
 <link rel=3D"preload" href=3D"https://static.whatsapp.net/rsrc.php/v4irtB4/=
 yM/l/rt/3cm0bBf283MaUwWZqfbVlPrJ78-CBA_c5QeBXWsGpfpCF96L2CjyB8xvsWqehdEtWw.=
 js" as=3D"script" crossorigin=3D"anonymous" nonce=3D""><link rel=3D"preload=
