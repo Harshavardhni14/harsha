@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Wildlife Photography Gallery</title>
+    <style>
+        body {
+            background-color: #f4f4f4;
+            font-family: Arial, sans-serif;
+            padding: 15px;
+        }
+
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-top: 20px;
+        }
+
+        .gallery img {
+            width: 70%;
+            border: 4px solid #ddd; /* Adding a border */
+            border-radius: 10px; /* Rounded corners for the border */
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .gallery img:hover {
+            transform: scale(1.05); /* Slight zoom on hover */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
+            border-color: #333; /* Change border color on hover */
+        }
+
+        .back-button {
+            color: white;
+            padding: 10px;
+            text-align: center;
+            margin-top: 20px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Photography Gallery</h1>
+
+    <div class="gallery">
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUbDncAp6x8AU6LBcSbEBQF3VuksOsp8xJZw&s lenght="250",breath="250,alt="Wildlife 1"></div>
+        <div><img src="https://live.staticflickr.com/5646/21061407874_0f493fc0ea_b.jpg" lenght="250",breath="250,alt="Wildlife 2"> </div>
+        <div><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTaYVG_iCjqtC3bXEKrVyw1a1VUNpkA7fViw&s"lenght="250",breath="250, alt="Wildlife 3"></div>
+        <div><img src="https://static.vecteezy.com/system/resources/thumbnails/022/717/231/small_2x/concept-nature-reserve-conserve-wildlife-reserve-tiger-deer-global-warming-food-loaf-ecology-human-hands-protecting-the-wild-and-wild-animals-tigers-deer-generat-ai-free-photo.jpg"lenght="250",breath="250, alt="Wildlife 4"></div>
+    </div>
+
+</body>
+
+</html>
